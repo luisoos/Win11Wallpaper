@@ -3,7 +3,7 @@
 Website for all Windows 11 Wallpaper - to download and to view.
 coded.
 
-## [View it](https://luisoos.github.io/Win11Wallpaper) | [Source Code](https://https://github.com/luisoos/Win11Wallpaper/blob/main/index.html)
+## [View it](https://luisoos.github.io/Win11Wallpaper) | [Source Code](https://github.com/luisoos/Win11Wallpaper/blob/main/index.html)
 
 
 ### Notes
